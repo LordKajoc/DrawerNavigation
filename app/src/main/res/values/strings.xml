@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DrawerNavigation</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="fperson">Hello Ini Fragment Person</string>
+    <string name="fhome">Hello Ini Fragment Home</string>
+    <string name="nav_open">open</string>
+    <string name="nav_close">close</string>
+</resources>
